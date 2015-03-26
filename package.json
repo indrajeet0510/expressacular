@@ -1,0 +1,22 @@
+{
+  "name": "expressacular",
+  "version": "0.1",
+  "description": "Simple API Framework for Complex ExpressJS Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "node",
+    "mysql",
+    "api"
+  ],
+  "author": "Indrajeet",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.0",
+    "mysql": "^2.5.5"
+  }
+}
